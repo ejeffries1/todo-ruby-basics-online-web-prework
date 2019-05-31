@@ -19,9 +19,9 @@ puts "#{phrase}"
 end
 
 def last_evaluated_value(phrase="expert")
- return "#{phrase}"
+ puts "#{phrase}"
 end
 
 def pizza_party(topping = "cheese")
-return "#{topping}"
+puts "#{topping}"
 end
